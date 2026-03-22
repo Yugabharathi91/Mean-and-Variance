@@ -1,4 +1,6 @@
 Date : 29.01.2026
+#Name : Praveen Raj G
+#Reg no : 212224040245
                                                                
 # 1. Mean and variance of a discrete  distribution
 
@@ -51,9 +53,6 @@ It shows the distance of a random variable from its mean. It is calcualted as
 
 # Program :
 ```
-Name : A Sathya Narayanan
-Reg no : 212225040392
-
 import numpy as np
 L=[int(i) for i in input().split()]
 N=len(L)
