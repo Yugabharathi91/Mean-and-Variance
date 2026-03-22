@@ -1,7 +1,8 @@
 Date : 29.01.2026
-#Name : Praveen Raj G
-#Reg no : 212224040245
-                                                               
+
+# Name : Praveen Raj G
+# Reg no : 212224040245
+
 # 1. Mean and variance of a discrete  distribution
 
 
